@@ -59,8 +59,7 @@ A modern full-stack web application built with React and Express for managing mo
 ## API Endpoints
 
 - `/api/movies` - Movie management
-- `/api/products` - Product catalog
-- `/api/orders` - Order processing
+
 
 ## Contributing
 

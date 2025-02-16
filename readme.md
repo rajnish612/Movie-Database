@@ -1,7 +1,7 @@
 
 # Movie & Product Management Platform
 
-A modern full-stack web application built with React and Express for managing movies and e-commerce products. Features a clean, responsive UI and robust backend integration.
+A modern full-stack web application built with React and Express for managing movies. Features a clean, responsive UI and robust backend integration.
 
 ## Features
 

@@ -11,12 +11,6 @@ A modern full-stack web application built with React and Express for managing mo
   - Search and filter functionality
   - Detailed movie information pages
 
-- E-commerce Integration
-  - Product catalog with dynamic filtering
-  - Shopping cart functionality
-  - Secure checkout process
-  - Integration with Qikink for product fulfillment
-
 - User Experience
   - Responsive design for all devices
   - Real-time updates
